@@ -8,7 +8,7 @@
 angular.module('selectionModelMgr')
   .factory('selectionModelMgr', ['selectionModelOptions', function('selectionModelOptions) {
     'use strict';
-    var exports - {};
+    var exports = {};
 
     exports.select = function() {
       /*code*/
