@@ -6,7 +6,7 @@
  */
 
 angular.module('selectionModelMgr')
-  .factory('selectionModelMgr', ['selectionModelOptions', function('selectionModelOptions) {
+  .factory('selectionModelMgr', ['selectionModelOptions', function(selectionModelOptions) {
     'use strict';
     var exports = {};
 
